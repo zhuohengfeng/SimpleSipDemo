@@ -1,0 +1,18 @@
+{
+  "tag": "hik",
+  "username": "33080002001326030001",
+  "password": "",
+  "server": "33.192.64.106",
+  "domain": "3308000200",
+  "port": "5060",
+  "protocol": "UDP",
+
+  "callback": true,
+  "posUrl": "",
+
+  "open": true,
+  "m3G": true,
+  "wlan": true,
+  "edge": true,
+  "fromUser": ""
+}

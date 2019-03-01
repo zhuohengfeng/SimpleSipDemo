@@ -1,0 +1,18 @@
+{
+  "tag": "open",
+  "username": "33080002001326031122",
+  "password": "12345678",
+  "server": "121.40.50.44",
+  "domain": "",
+  "port": "5060",
+  "protocol": "UDP",
+
+  "callback": true,
+  "posUrl": "",
+
+  "open": true,
+  "m3G": true,
+  "wlan": true,
+  "edge": true,
+  "fromUser": ""
+}
